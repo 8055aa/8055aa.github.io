@@ -2,36 +2,4 @@ title: 这是在github上的第一篇blog
 ---
 昏黄的路灯温暖夜归人的心怀，月光披洒在冰冷的街道上，孤寂的情感如午夜的幽灵，游荡在空旷的心灵，如果那一天我们会见面，也许会走上不同的道路，时光流失，一切一定冥冥之中早已注定，微笑面对未来，今天的我们，将在明天相遇，时钟敲响，启明星照亮大地，我们相见在月光下。
 
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](http://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](http://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
+## 這是從 http://8055aa5508.blogspot.jp/ 上轉過來的
